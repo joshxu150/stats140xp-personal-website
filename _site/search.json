@@ -9,8 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal Website",
+    "title": "Josh Xu",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\nrnorm(10)\n\n [1] -1.7100464  0.5605929  0.8984460 -0.1997546  0.6184390  0.9342284\n [7] -1.1863677  0.8637501 -0.9024750  0.2559612"
+    "text": "Josh Xu is a fourth-year undergraduate student studying Statistics and Data Science and Geography at UCLA. He is presently considering multiple offers from Ph.D. programs in Statistics. In his free time, Josh enjoys playing quiz bowl and is beginning an amateur career in political punditry."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Josh Xu",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | June 2021 - June 2025 B.A. in Geography"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Josh Xu",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]
