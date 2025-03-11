@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Project 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\nJan 20, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project_1.html",
@@ -46,6 +46,6 @@
     "href": "projects/project_2.html",
     "title": "Project 2",
     "section": "",
-    "text": "rnorm(5)\n\n[1]  0.4229324  1.7707834  0.2263575 -0.1844493  0.2150081"
+    "text": "rnorm(5)\n\n[1] -0.81346637  0.08195499 -0.76116450 -0.57840888 -0.69922194"
   }
 ]
