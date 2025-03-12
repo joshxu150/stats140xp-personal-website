@@ -25,27 +25,27 @@
     "href": "index.html#experience",
     "title": "Josh Xu",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Experience\nUCLA Luskin School of Public Affairs | Undergraduate Research Assistant | 2024"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\nJan 20, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Democrats, Data, and Determination: The Hidden Story of Donald Trump’s Return\n\n\n\n\n\n\n\n\n\n\n\nJan 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nProgress, Priorities, and Obstacles to Providing Adequate Shade and Lighting at Bus Stops in Los Angeles\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project_1.html",
     "href": "projects/project_1.html",
-    "title": "Project 1",
+    "title": "Progress, Priorities, and Obstacles to Providing Adequate Shade and Lighting at Bus Stops in Los Angeles",
     "section": "",
-    "text": "rnorm(20)\n\n [1]  0.49396531  0.58123459  0.73097968  0.84621139 -1.02659433  0.94877420\n [7]  0.81739082 -0.14483678  1.20178297  0.15292124 -0.46024297  0.13048076\n[13] -0.01985088  1.57849327  0.74926424 -1.37774057 -1.45858098 -0.70022203\n[19]  2.48298724 -2.03835745"
+    "text": "PI: Monisha Reginald, UCLA Luskin School of Public Affairs\nI performed data collection for a project examining the inequities of the rider experience at bus stops across Los Angeles, particularly for women and riders of color. I took measurements regarding street lighting and bus shelters, evaluating the potential for improvements."
   },
   {
     "objectID": "projects/project_2.html",
     "href": "projects/project_2.html",
-    "title": "Project 2",
+    "title": "Democrats, Data, and Determination: The Hidden Story of Donald Trump’s Return",
     "section": "",
-    "text": "rnorm(5)\n\n[1] -0.81346637  0.08195499 -0.76116450 -0.57840888 -0.69922194"
+    "text": "My book about the 2024 election, in collaboration with the Presidential History Productions YouTube channel. The pre-publication manuscript can be downloaded here. I am still working out the details for official publication and release."
   }
 ]

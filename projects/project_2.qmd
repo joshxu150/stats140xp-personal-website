@@ -1,8 +1,6 @@
 ---
 date: "January 20, 2025"
-title: "Project 2"
+title: "Democrats, Data, and Determination: The Hidden Story of Donald Trump's Return"
 ---
 
-```{r}
-rnorm(5)
-```
+My book about the 2024 election, in collaboration with the [Presidential History Productions](https://www.youtube.com/channel/UCwhEl58IE6sTpJAd63K5hoA) YouTube channel. The pre-publication manuscript can be downloaded [here](/Democrats,-Data,-and-Determination.pdf). I am still working out the details for official publication and release.
